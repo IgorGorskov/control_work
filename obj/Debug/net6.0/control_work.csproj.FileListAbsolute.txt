@@ -1,0 +1,15 @@
+C:\education\control_work_1\control_work\bin\Debug\net6.0\control_work.exe
+C:\education\control_work_1\control_work\bin\Debug\net6.0\control_work.deps.json
+C:\education\control_work_1\control_work\bin\Debug\net6.0\control_work.runtimeconfig.json
+C:\education\control_work_1\control_work\bin\Debug\net6.0\control_work.dll
+C:\education\control_work_1\control_work\bin\Debug\net6.0\control_work.pdb
+C:\education\control_work_1\control_work\obj\Debug\net6.0\control_work.csproj.AssemblyReference.cache
+C:\education\control_work_1\control_work\obj\Debug\net6.0\control_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\control_work_1\control_work\obj\Debug\net6.0\control_work.AssemblyInfoInputs.cache
+C:\education\control_work_1\control_work\obj\Debug\net6.0\control_work.AssemblyInfo.cs
+C:\education\control_work_1\control_work\obj\Debug\net6.0\control_work.csproj.CoreCompileInputs.cache
+C:\education\control_work_1\control_work\obj\Debug\net6.0\control_work.dll
+C:\education\control_work_1\control_work\obj\Debug\net6.0\refint\control_work.dll
+C:\education\control_work_1\control_work\obj\Debug\net6.0\control_work.pdb
+C:\education\control_work_1\control_work\obj\Debug\net6.0\control_work.genruntimeconfig.cache
+C:\education\control_work_1\control_work\obj\Debug\net6.0\ref\control_work.dll
